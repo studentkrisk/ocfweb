@@ -26,21 +26,21 @@ We hold two meetings every Wednesday:
 
 #### Board of Directors (BoD)
 
-**Wednesday 7-8pm**
+**Wednesday 6-7 PM**
 
-The OCF Board of Directors has open meetings from 8-9 pm every Wednesday. BoD is
+The OCF Board of Directors has open meetings from 6-7 PM every Wednesday. BoD is
 where we discuss and vote on administrative decisions. If you are interested in
 gaining insight into the internal operations the OCF from an administrative
 perspective, please come to BoD meetings! Meetings always are open to all.
 
-#### Staff Meeting
+#### General Meeting
 
-**Wednesday 8-9pm**
+**Wednesday 7:30-10PM**
 
-In these meetings, all OCF staff (that includes you!) get together to discuss
+In these meetings, all OCF members (that includes you!) get together to discuss
 technology, learn from each other, and work on OCF projects. These meetings will
-be a mix of presentations, work time, and socializing. Our goal is to build OCF
-staff into a strong community of capable individuals.
+be a mix of presentations, work time, and socializing. Our goal is to build the OCF
+into a strong community of capable individuals.
 
 ### Starter Tasks
 
